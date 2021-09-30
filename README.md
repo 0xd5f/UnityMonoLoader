@@ -8,3 +8,6 @@ BOOL AntiCheatsOff1 = MonoInject.InjectMono("Sunrise.exe", "mono.dll", L"Assembl
 ```
 
 ![image](https://user-images.githubusercontent.com/79174725/135528251-ddf314fc-8393-4977-87cc-f0cf4eac0c03.png)
+
+
+[Telegram](https://t.me/OxD5F)
